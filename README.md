@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://www.cinconoticias.com/wp-content/uploads/Generos-de-videojuegos.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
@@ -49,16 +49,18 @@
   * > [Laboratorio](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%203/Laboratorio%203)
   * > [Desafío](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%203/Desafio%203)
   * > [Prueba](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%203)
+  * > [Video](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%203/Desafio%203)
 * Lección 4
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
 * Lección 5
-  * > Tutorial
+  * > [Tutorial](https://github.com/raulrodriguezf/UNITY-FINAL/blob/main/Unidad%205/Tutorial/Unidad%205%20-%20Interfaz%20de%20usuario.unitypackage)
   * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Desafío](https://github.com/raulrodriguezf/UNITY-FINAL/blob/main/Unidad%205/Desaf%C3%ADo/Challenge%205%20-%20Aplasta%20comida.unitypackage)
+  * > [Prueba](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%205)
+  * > [Video](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%205/Desaf%C3%ADo)
 * VideoJuego
 
 ## Planificación

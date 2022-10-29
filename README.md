@@ -57,7 +57,7 @@
   * > Prueba
 * Lección 5
   * > [Tutorial](https://github.com/raulrodriguezf/UNITY-FINAL/blob/main/Unidad%205/Tutorial/Unidad%205%20-%20Interfaz%20de%20usuario.unitypackage)
-  * > Laboratorio
+  * > [Laboratorio](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%205/Laboratorio)
   * > [Desafío](https://github.com/raulrodriguezf/UNITY-FINAL/blob/main/Unidad%205/Desaf%C3%ADo/Challenge%205%20-%20Aplasta%20comida.unitypackage)
   * > [Prueba](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%205)
   * > [Video](https://github.com/raulrodriguezf/UNITY-FINAL/tree/main/Unidad%205/Desaf%C3%ADo)

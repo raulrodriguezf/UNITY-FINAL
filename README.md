@@ -42,7 +42,7 @@
   * > https://sharing.clickup.com/45039402/g/h/1ayfta-145/9f08e23f2608c2a
 - Versiones
   * > Versión 1:
-    * > Se agrego el personaje que ira corriendo por todo el escenario.
+    * > Se agrego el personaje de Miximo que ira corriendo por todo el escenario.
     * > Se agrego el script que ayudara al personaje a poder moverse en tres carriles, con los botones    horizontales.
     * > Se agregaron algunos obstáculos para hacer pruebas de brincar.
     * > Se agregaron algunas animaciones.

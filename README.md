@@ -24,13 +24,33 @@
 ## Introducción
 
 - Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
+  * > Subway Run
+- Objetivo
+  * > El objetivo de este juego es el poder tener un juego que te pueda distraer ya que este contara con varios niveles los cuales serán muy interesantes, ya que se tienen que obtener diamantes durante el juego ya que el player irá corriendo esquivando los trenes que se acercan. Y ahí mismo le irán apareciendo los diamantes que tiene que recolectar y con el paso del progreso del juego y el nivel elegido será más difícil ya que tendrá que esquivar los trenes e ir brincando los obstáculos que aparecerán.
+- Plataforma ,Género, Clasificación, Personajes, Escenario
+  * > Plataforma: Desktop
+  * > Género: Aventura
+  * > Clasificación: Contenido para todas las edades
+  * > Objetos especiales: Sonido y partículas
+  * > Personajes: Lee Yohu (Personaje que corre)
+  * > Escenario: En la ciudad
 - Historia
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
+  * > Había un niño que le encantaban los trenes pero también jugar con el celular, en su recámara tenía diferentes trenes y diferentes vagones. Es por ello que nació la idea del juego Subway Run el cual  se muestran algunos trenes, vagones y se incluyeron algunos diamantes para recolectar.
+- Reglas de Juego
+  * > El propósito del jugador es recolectar los diamantes sin chocar con los trenes que aparecen ya que si este choca con algunos se le irán disminuyendo la barra de vidas de las cuales solo podrá chocar 3 veces ya que solo tendrá 3 vidas. Sí el jugador choca se termina el juego, pero si el jugador gana 80 diamantes ganará la partida. Se tendrán 3 botones Fácil, Medio y Difícil cualquiera de estos botones aumentará la velocidad dependiendo el valor agregado. En caso del nivel Difícil se agregan obstáculos los cuales tendrán que ser brindados por el jugador.
+- Plan de creación de VideoJuego
+  * > https://sharing.clickup.com/45039402/g/h/1ayfta-145/9f08e23f2608c2a
+- Versiones
+  * > Versión 1:
+    * > Se agrego el personaje que ira corriendo por todo el escenario.
+    * > Se agrego el script que ayudara al personaje a poder moverse en tres carriles, con los botones    horizontales.
+    * > Se agregaron algunos obstáculos para hacer pruebas de brincar.
+    * > Se agregaron algunas animaciones.
+
+- Autores:
+  * > Eva Quintero Carrillo - 1217100824
+  * > Raúl Alberto Rodriguez Flores - 1219100366
+
 
 ## Código Fuente
 
